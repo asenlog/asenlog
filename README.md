@@ -8,20 +8,11 @@
 </a>
 
 <br />
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-<br />
 <br />
 
-![Angelos's github stats](https://github-readme-stats.vercel.app/api?username=asenlog&show_icons=true)
-
-<!--
-**asenlog/asenlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Currently**
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on GoLang building Microservices
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
@@ -29,4 +20,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+  
+![Angelos's github stats](https://github-readme-stats.vercel.app/api?username=asenlog&show_icons=true)
+
+<!--
+**asenlog/asenlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
