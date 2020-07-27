@@ -10,7 +10,12 @@
 <br />
 <br />
  
-![Angelos's github stats](https://github-readme-stats.vercel.app/api?username=asenlog&show_icons=true)
+![Angelos's github stats](https://github-readme-stats.vercel.app/api?username=asenlog&show_icons=true&hide_border=true)
+
+<br />
+<br />
+
+
 
 <!--
 **asenlog/asenlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
