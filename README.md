@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Angelos
 
 **Currently**
-- 🔭 I’m currently working on building Distributed Systems
+- 🔭 I’m currently working on building Distributed Systems in Golang
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Hexagonal Architecute, Design Patterns, Clean Code
 - 📫 How to reach me: https://asenlog.github.io
