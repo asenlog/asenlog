@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Angelos
 
 **Currently**
-- 🔭 I’m currently working on building Distributed Systems in Golang
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently building [Synapsis Labs](https://www.synapsis.cc) platform
+- 🌱 I’m also learning Rust
 - 💬 Ask me about Hexagonal Architecute, Design Patterns, Clean Code
-- 📫 How to reach me: https://asenlog.github.io
+- 📫 How to reach me: aggelos.roussakis@gmail.com
 - ⚡ Fun fact: Asenlog is an anagram of Angelos 
 
 <!--
